@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1481301281 source:c:\users\sara\desktop\comsc200\sistone\main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	<vector>
+	<iterator>
+	"Card.h"
+	"NeutralCards.h"
+	"HunterCards.h"
+	"Player.h"
+
+1481292814 c:\users\sara\desktop\comsc200\sistone\include\card.h
+	<iostream>
+	<string>
+	<vector>
+
+1481292177 c:\users\sara\desktop\comsc200\sistone\include\neutralcards.h
+	<string>
+	<iostream>
+	<vector>
+	"Card.h"
+
+1479005320 c:\users\sara\desktop\comsc200\sistone\include\player.h
+	<iostream>
+	<vector>
+	<stdlib.h>
+	<time.h>
+	"Card.h"
+	"NeutralCards.h"
+	"HunterCards.h"
+
+1481291941 source:c:\users\sara\desktop\comsc200\sistone\src\card.cpp
+	"Card.h"
+
+1481296692 source:c:\users\sara\desktop\comsc200\sistone\src\neutralcards.cpp
+	"NeutralCards.h"
+
+1479281757 source:c:\users\sara\desktop\comsc200\sistone\src\player.cpp
+	"Player.h"
+
+1481292577 c:\users\sara\desktop\comsc200\sistone\include\huntercards.h
+	"Card.h"
+
+1481090887 source:c:\users\sara\desktop\comsc200\sistone\src\huntercards.cpp
+	"HunterCards.h"
+
+1478395181 source:c:\users\sara\desktop\comsc200\sistone\src\field.cpp
+	"Field.h"
+
+1478476825 c:\users\sara\desktop\comsc200\sistone\include\field.h
+
+1478458741 source:c:\users\sara\desktop\comsc200\sistone\src\specialcards.cpp
+
